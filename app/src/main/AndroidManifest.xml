@@ -15,6 +15,9 @@
         android:theme="@style/Theme.FinalAssignment"
         tools:targetApi="31">
         <activity
+            android:name=".DetailsActivity"
+            android:exported="false" />
+        <activity
             android:name=".DashboardActivity"
             android:exported="false" />
         <activity
