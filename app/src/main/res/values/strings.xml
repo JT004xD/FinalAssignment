@@ -4,4 +4,6 @@
     <string name="welcome">Welcome!</string>
     <string name="dashboard">Home</string>
     <string name="details">Details</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
 </resources>
