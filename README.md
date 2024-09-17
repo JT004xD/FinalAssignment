@@ -9,6 +9,11 @@ Steps
     Bash
 
     git clone <JT004xD/FinalAssignment>
+    
+    I wasn't able to complete it due to my ssd dying out of nowhere and have forgotten to upload to github a week earlier
+     ,only have attempted to get around the ui implementations for the login, dashboard, and details.
+    For now only a completed segment of the README.md file.
+
 
     Use code with caution.
 
